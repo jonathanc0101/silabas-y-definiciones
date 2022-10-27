@@ -11,13 +11,14 @@ with open("palabrasJson.txt", "r") as Myfile:
     
     for palabra in data:
         syllabes, stress = syllabize(palabra)
-        p = {}
-        p["silabas"] = syllabes
-        p["palabra"] = palabra
-        palabras.append(p)
+        if(len(syllabes) > 1):
+            p = {}
+            p["silabas"] = syllabes
+            p["palabra"] = palabra
+            palabras.append(p)
 
     palabrasJson = json.dumps({"palabras":palabras})    
-    with open("palabrasSilabas.txt", "w") as fileSilabas:
+    with open("palabrasSilabas.json", "w") as fileSilabas:
         fileSilabas.write(palabrasJson)
     
 
