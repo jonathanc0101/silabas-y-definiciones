@@ -117,18 +117,14 @@ ti
 vida
 ver
 alguien
-sr
 hasta
 sin
-mí
 solo
 años
 sobre
 decir
 uno
 siempre
-oh
-ir
 cosas
 también
 antes
@@ -170,7 +166,6 @@ lugar
 mundo
 amigo
 espera
-mierda
 han
 tus
 sabe
@@ -191,6 +186,7 @@ acuerdo
 papá
 tener
 dice
+caca
 mío
 crees
 buena
@@ -253,7 +249,6 @@ quizá
 debo
 alguna
 cierto
-ud
 muerto
 unos
 estos
@@ -289,7 +284,6 @@ eh
 rápido
 cuenta
 quizás
-io
 esas
 pues
 pasado
@@ -301,7 +295,6 @@ casi
 forma
 aqui
 chico
-ok
 dicho
 nueva
 sabía
@@ -314,7 +307,6 @@ camino
 ayuda
 primera
 hacia
-vi
 miedo
 adiós
 primero
@@ -323,7 +315,6 @@ poder
 niños
 sería
 historia
-hey
 mientras
 ciudad
 dijiste
@@ -340,7 +331,6 @@ año
 muerte
 hablando
 manos
-da
 loco
 problemas
 mano
@@ -403,7 +393,6 @@ dices
 nuestros
 persona
 abajo
-dr
 hija
 dejar
 necesita
@@ -444,7 +433,6 @@ pueda
 dime
 igual
 comida
-ay
 cuerpo
 encontrar
 fuerte
@@ -453,15 +441,12 @@ venga
 creer
 realidad
 saben
-puta
 deberías
 pregunta
 fui
 cuatro
-sra
 primer
 trabajar
-e
 hagas
 alto
 maldita
@@ -469,7 +454,6 @@ comer
 número
 dar
 necesitas
-john
 oportunidad
 punto
 misma
@@ -493,7 +477,6 @@ hacen
 medio
 algunas
 basta
-ei
 arma
 vino
 meses
@@ -507,7 +490,6 @@ posible
 tuve
 fácil
 preocupes
-jack
 luz
 eran
 carajo
@@ -585,14 +567,11 @@ cállate
 trato
 rey
 sucede
-sam
 muchachos
 jamás
 cama
-srta
 ayudar
 acerca
-di
 cambio
 falta
 hospital
@@ -602,7 +581,6 @@ mil
 gusto
 conoces
 diciendo
-os
 ido
 general
 extraño
@@ -622,7 +600,6 @@ orden
 segura
 querida
 niña
-michael
 increíble
 además
 deben
@@ -633,8 +610,6 @@ piensas
 hacemos
 especial
 queremos
-ia
-clark
 irme
 perfecto
 buscar
@@ -644,7 +619,6 @@ oficina
 hablas
 libre
 agente
-york
 llamar
 mala
 detrás
@@ -660,14 +634,12 @@ perdido
 llamo
 muertos
 millones
-asesino
 sueño
 quisiera
 habría
 hará
 viaje
 probablemente
-peter
 resto
 estaré
 maldición
@@ -678,13 +650,11 @@ ropa
 fuerza
 llamado
 oído
-frank
 dado
 encima
 negro
 usar
 información
-uds
 preguntas
 tuvo
 secreto
@@ -763,9 +733,7 @@ ocurre
 oficial
 espere
 aire
-george
 mató
-harry
 regresar
 vio
 hazlo
@@ -783,7 +751,6 @@ estúpido
 diferente
 traje
 modo
-james
 encontré
 mensaje
 llamada
@@ -7648,8 +7615,6 @@ doris
 devuelve
 convirtiendo
 contraseña
-cojones
-caca
 bromeaba
 ayudaste
 artefacto
@@ -9958,18 +9923,13 @@ espectros
 cubiertas
 confié
 clemencia
-cago
 bromea
-brigitte
 atún
 ático
 arreglé
-ani
 amnesia
 acusa
-trade
 situacion
-shirley
 servidor
 seran
 recoja

@@ -1,3 +1,4 @@
+from dataclasses import dataclass
 import json
 from syltippy import syllabize
 
@@ -5,16 +6,17 @@ from syltippy import syllabize
 with open("palabrasJson.txt", "r") as Myfile:
     data = json.load(Myfile)
     
-    palabras = {}
-
+    palabras = []
+    
+    
     for palabra in data:
         syllabes, stress = syllabize(palabra)
-        palabras[palabra] = syllabes
+        p = {}
+        p["silabas"] = syllabes
+        p["palabra"] = palabra
+        palabras.append(p)
 
-        # print(palabra)
-        # print(syllabes)
-
-    palabrasJson = json.dumps(palabras)    
+    palabrasJson = json.dumps({"palabras":palabras})    
     with open("palabrasSilabas.txt", "w") as fileSilabas:
         fileSilabas.write(palabrasJson)
     
